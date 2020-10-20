@@ -131,7 +131,7 @@ xterm -T MALANG -e linux ubd0=MALANG,jarkom umid=MALANG eth0=daemon,,,switch2 me
 xterm -T MOJOKERTO -e linux ubd0=MOJOKERTO,jarkom umid=MOJOKERTO eth0=daemon,,,switch2 mem=96M &
 
 # Klien
-xterm -T SIDAORJO -e linux ubd0=SIDAORJO,jarkom umid=SIDAORJO eth0=daemon,,,switch1 mem=96M &
+xterm -T SIDOARJO -e linux ubd0=SIDOARJO,jarkom umid=SIDOARJO eth0=daemon,,,switch1 mem=96M &
 xterm -T GRESIK -e linux ubd0=GRESIK,jarkom umid=GRESIK eth0=daemon,,,switch1 mem=96M &
 
 
